@@ -1,0 +1,1 @@
+drop VIEW [nome_da_view];
